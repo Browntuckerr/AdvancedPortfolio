@@ -138,7 +138,7 @@ footer a {
     padding-right: 10px;
     border-right: 2px solid var(--about-me-work-border);
 }
-.work-item-project.challenge-1-refactor {
+.Project2 {
     grid-column: 2 / span 2;
     grid-row: 1 / span 6;
     background-image:url("https://via.placeholder.com/150C/O https://placeholder.com/");
